@@ -1,0 +1,14 @@
+MYSQL_HOST=mysql
+MYSQL_PORT=3306
+MYSQL_USR=root
+MYSQL_PWD=root123
+REGISTRY_URL=http://registry:5000
+CONFIG_PATH=/etc/ui/app.conf
+HARBOR_REG_URL=moz.douins.com
+HARBOR_ADMIN_PASSWORD=liu0912
+HARBOR_URL=moz.douins.com
+AUTH_MODE=db_auth
+LDAP_URL=ldaps://ldap.mydomain.com
+LDAP_BASE_DN=uid=%s,ou=people,dc=mydomain,dc=com
+SELF_REGISTRATION=on
+LOG_LEVEL=debug
